@@ -1,0 +1,22 @@
+
+.box{
+  background-color: green;
+  height: 255px;
+  width: 255px;
+  border-radius: 20px;
+}
+img{
+   height:100%;
+   width:100%;
+   outline: "10px solid black";
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color:rgb(85, 255, 0);
+}
+.box4{
+    height: 200px;
+    width: 200px;
+    background-color:rgb(255, 0, 144);
+}
